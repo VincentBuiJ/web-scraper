@@ -1,6 +1,6 @@
 # Web Scraper
-- A Python web scraper that extracts quotes from websites and saves them to CSV file.
-- Output: Creates `quotes.csv` with scraped data
+
+A Python web scraper that extracts quotes from websites and saves them to CSV file.
 
 ## Features
 - Fetches web pages using requests
@@ -17,6 +17,8 @@ pip install requests beautifulsoup4
 ```bash
 python web_scraper.py
 ```
+
+**Output:** Creates `quotes.csv` with scraped data
 
 ## Future Improvements
 - Scrape multiple pages
